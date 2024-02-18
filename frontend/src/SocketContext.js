@@ -6,7 +6,7 @@
 
 // const SocketContext = createContext()
 
-// const socket = io('http://localhost:5000')
+// const socket = io('https://vedio-chat.onrender.com/')
 
 // const contextProvider = ({children})=>{
 

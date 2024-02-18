@@ -385,7 +385,7 @@ const ContextProvider = ({ children }) => {
         if (connectionRef.current) {
             connectionRef.current.destroy();
         }
-        window.location.reload(); // Reload the page after leaving the call
+        window.location.reload(); // Reload the page after leaving the calls
     };
 
     return (
